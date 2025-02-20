@@ -9,40 +9,38 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Indian/Maldives
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Nasrulla's Docs
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A Documentation website for future references.
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A Documentation website for future references.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://nasrullaameen.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: NasrullaAmeen # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: NasrullaAmeen # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Nasrulla Ameen
+  email: nasrulla0ameen@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/NasrullaAmeen
+    - https://github.com/NasrullaAmeen
+    - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
@@ -59,7 +57,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: 
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -78,16 +76,6 @@ pageviews:
   provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
-#
-# Note: Keep empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark and light
-# on the bottom left of the sidebar.
-#
-# Available options:
-#
-#     light — Use the light color scheme
-#     dark — Use the dark color scheme
-#
 theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
@@ -98,7 +86,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/122364662?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
